@@ -93,16 +93,3 @@ rasa shell nlu
 - **To view sequence graph of rasa bot**
 ```
 rasa visualize
-```
-
-****
-## Team Members
-***[@github/adham-n4a7](https://github.com/adham-n4a7)***
-
-***[@github/aakif123](https://github.com/aakif123)***
-
-***[@github/afsar](https://github.com/)***
-
-***[@github/nazim](https://github.com/)***
-
-****
